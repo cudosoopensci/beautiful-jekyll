@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: Learn about how we're trying to drive Open Science forward
+subtitle: An introduction to CUDOS
 ---
 
 ## What is CUDOS about? 
