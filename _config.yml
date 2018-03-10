@@ -7,12 +7,6 @@
 url: "http://cudosopensci.github.io"
 baseurl: "cudosopensci.github.io"
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: CUDOS Open Science 
 
@@ -23,7 +17,7 @@ description: An Open Science support group based on Coventry University
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutus"
+  About Me: "aboutcudos"
   Resources: "aboutus"
   Journal Club: "aboutus"
 
