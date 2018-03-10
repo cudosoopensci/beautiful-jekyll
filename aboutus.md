@@ -1,23 +1,16 @@
 ---
 layout: page
-title: About us
-subtitle: An introduction to CUDOS
+title: About me
+subtitle: Why you'd want to go on a date with me
 ---
 
-## What is CUDOS about? 
+My name is Inigo Montoya. I have the following qualities:
 
-CUDOS is a support group and place of discussion for how you can incorporate Open Science practices in your research. One of the main barriers to incorporating these practices is a lack of knowledge or support. For example, if you, your supervisors, or your collaborators do not have any experience sharing your analysis scripts, you may feel hesitant to try it out. Even though we learn from making mistakes, no one actually likes making them, so perhaps if someone could show you how it can be done, you would be more willing to adopt Open Science practices. 
+- I rock a great mustache
+- I'm extremely loyal to my family
 
-## What are Open Science practices? 
+What else do you need?
 
-- Pre-registering the methodology of your study before you collect data. You could even submit your study as a [Registered Report](https://cos.io/rr/) which is even possible as a [graduate student](http://blog.efpsa.org/2016/09/09/publishing-a-registered-report-as-a-postgraduate-researcher/).
+### my history
 
-- Sharing your materials to make it easier for others to replicate your study.
-
-- Sharing your data (unless there are ethical reasons not to) and analysis scripts to make it easier for others to reproduce the findings of your study.
-
-- Sharing your manuscripts as a [pre-print](http://blog.psyarxiv.com/about-psyarxiv/) or publish your article [Open Access](http://libguides.coventry.ac.uk/rsp/openaccess) to enable unrestricted access to your research.
-
-- Sign your peer reviews and support initiatives such as [PRO](https://opennessinitiative.org/).
-
-- Produce open educational materials to train other scientists. 
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
