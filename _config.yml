@@ -17,7 +17,7 @@ description: An Open Science support group based on Coventry University
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutcudos"
+  About CUDOS: "aboutcudos"
   Resources: "aboutus"
   Journal Club: "journalclubindex"
 
