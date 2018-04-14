@@ -4,9 +4,17 @@ title: About us
 subtitle: An introduction to CUDOS
 ---
 
+<center>
+  <img src="{{ site.baseurl }}/img/CUDOS-logo.png" alt="CUDOS" width = "450" />
+</center>
+
 ## What is CUDOS about? 
 
-CUDOS is a support group and place of discussion for how you can incorporate Open Science practices in your research. One of the main barriers to incorporating these practices is a lack of knowledge or support. For example, if you, your supervisors, or your collaborators do not have any experience sharing your analysis scripts, you may feel hesitant to try it out. Even though we learn from making mistakes, no one actually likes making them, so perhaps if someone could show you how it can be done, you would be more willing to adopt Open Science practices. 
+CUDOS is a support group based at Coventry University and place of discussion for how you can incorporate Open Science practices in your research. One of the main barriers to incorporating these practices is a lack of knowledge or support. For example, if you, your supervisors, or your collaborators do not have any experience sharing your analysis scripts, you may feel hesitant to try it out. Even though we learn from making mistakes, no one actually likes making them, so perhaps if someone could show you how it can be done, you would be more willing to adopt Open Science practices. 
+
+## Who is CUDOS for? 
+
+This group is open to anyone at any career stage who is interested in incorporating Open Science practices into their research. You could be a third year undergraduate student wanting to adopt these practices early. You could be a PhD student and want to incorporate Open Science practices throughout your thesis. You could even be a Reader who has vast amounts of experience in conducting research, but you want to slightly change your current workflow. This group is intended to be open to any career stage and aims to bring people together so that they can learn from each other. 
 
 ## What are Open Science practices? 
 
@@ -21,3 +29,5 @@ CUDOS is a support group and place of discussion for how you can incorporate Ope
 - Sign your peer reviews and support initiatives such as [PRO](https://opennessinitiative.org/).
 
 - Produce open educational materials to train other scientists. 
+
+
