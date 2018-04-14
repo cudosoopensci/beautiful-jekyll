@@ -17,8 +17,8 @@ description: An Open Science support group based on Coventry University
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   About CUDOS: "aboutcudos"
-  Resources: "resources-index"
   Journal Club: "journalclubmain"
 
 # Image to show in the navigation bar - image must be a square (width = height)
